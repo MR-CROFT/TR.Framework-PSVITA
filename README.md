@@ -12,12 +12,12 @@ You have 4 levels to play and explore. Three (ParisTutorial, Paris and ParisFina
 To build or run this project for PSVita, you will need:
 
 🔧 Unity
-Unity 2018.2.19f1 (last Unity version officially compatible with PSVita SDK)
-PSVita SDK
-Unity PSVita Editor Support
+Unity 2018.2.19f1 (last Unity version officially compatible with PSVita SDK),
+PSVita SDK,
+Unity PSVita Editor Support,
 PSVita Video Player Plugin (used for pre-rendered cutscenes)
 
-💻 Optional for PC builds
+💻 Optional for PC builds: 
 Unity Standalone Build Support (Windows)
 
 🎮 Features
