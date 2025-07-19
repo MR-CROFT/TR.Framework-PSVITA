@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 461821c5def9cbe428be1d97a6228c0b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cover-a
+    100002: cover-b
+    100004: pages-001-a
+    100006: pages-001-b
+    100008: pages-002-a
+    100010: pages-002-b
+    100012: pages-003-a
+    100014: pages-003-b
+    100016: pages-004-a
+    100018: pages-004-b
+    100020: pages-005-a
+    100022: pages-005-b
+    100024: //RootNode
+    100026: passport-001-a
+    100028: passport-001-b
+    400000: cover-a
+    400002: cover-b
+    400004: pages-001-a
+    400006: pages-001-b
+    400008: pages-002-a
+    400010: pages-002-b
+    400012: pages-003-a
+    400014: pages-003-b
+    400016: pages-004-a
+    400018: pages-004-b
+    400020: pages-005-a
+    400022: pages-005-b
+    400024: //RootNode
+    400026: passport-001-a
+    400028: passport-001-b
+    2100000: Default
+    2300000: cover-a
+    2300002: cover-b
+    2300004: pages-001-a
+    2300006: pages-001-b
+    2300008: pages-002-a
+    2300010: pages-002-b
+    2300012: pages-003-a
+    2300014: pages-003-b
+    2300016: pages-004-a
+    2300018: pages-004-b
+    2300020: pages-005-a
+    2300022: pages-005-b
+    3300000: cover-a
+    3300002: cover-b
+    3300004: pages-001-a
+    3300006: pages-001-b
+    3300008: pages-002-a
+    3300010: pages-002-b
+    3300012: pages-003-a
+    3300014: pages-003-b
+    3300016: pages-004-a
+    3300018: pages-004-b
+    3300020: pages-005-a
+    3300022: pages-005-b
+    4300000: pages-001-a
+    4300002: pages-002-a
+    4300004: pages-003-a
+    4300006: pages-004-a
+    4300008: pages-005-a
+    4300010: cover-a
+    4300012: pages-001-b
+    4300014: pages-002-b
+    4300016: pages-003-b
+    4300018: pages-004-b
+    4300020: pages-005-b
+    4300022: cover-b
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

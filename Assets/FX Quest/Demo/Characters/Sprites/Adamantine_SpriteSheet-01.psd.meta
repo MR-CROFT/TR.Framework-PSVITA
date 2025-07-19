@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: e894f31a8ef4a49039d4783389c556b3
+timeCreated: 1431797745
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Adamantine_SpriteSheet-01_0
+    21300002: Adamantine_SpriteSheet-01_1
+    21300004: Adamantine_SpriteSheet-01_2
+    21300006: Adamantine_SpriteSheet-01_3
+    21300008: Adamantine_SpriteSheet-01_4
+    21300010: Adamantine_SpriteSheet-01_5
+    21300012: Adamantine_SpriteSheet-01_6
+    21300014: Adamantine_SpriteSheet-01_7
+    21300016: Adamantine_SpriteSheet-01_8
+    21300018: Adamantine_SpriteSheet-01_9
+    21300020: Adamantine_SpriteSheet-01_10
+    21300022: Adamantine_SpriteSheet-01_11
+    21300024: Adamantine_SpriteSheet-01_12
+    21300026: Adamantine_SpriteSheet-01_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Adamantine_SpriteSheet-01_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 305
+        width: 126
+        height: 75
+      alignment: 9
+      pivot: {x: .508184075, y: .225015059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 313
+        width: 71
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 290
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: .465240836, y: .326063782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 318
+        width: 27
+        height: 35
+      alignment: 9
+      pivot: {x: .652521193, y: .798672915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 138
+        width: 211
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 267
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: .515084386, y: .796975136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 221
+        width: 30
+        height: 26
+      alignment: 9
+      pivot: {x: .0987538621, y: .792406499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 86
+        height: 109
+      alignment: 9
+      pivot: {x: .272178113, y: .358092576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 183
+        width: 13
+        height: 20
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 55
+        height: 58
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 62
+        height: 85
+      alignment: 9
+      pivot: {x: .716218054, y: .876082361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 25
+        width: 138
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Adamantine_SpriteSheet-01_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

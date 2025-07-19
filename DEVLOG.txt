@@ -1,0 +1,173 @@
+Mr.Croft — 07/25/2024 12:28 PM
+  CURRENT STATE OF THE PROJECT (25/07/2024)
+
+  Lara Fully Controllable and interacts with basic environment (ledges, stairs, pipes, wall grab and pickups)
+  Paris geometry imported (first 3 levels)
+  Von Croy Level geometry imported 
+  Louvre imported
+  Health Pickup and guns works
+
+ Combat is bugged 
+  Levers and Keys are not setup (yet) (edited)
+July 31, 2024
+
+Mr.Croft — 07/31/2024 2:55 PM
+  CURRENT STATE OF THE PORT (31/07/2024)
+
+  Project migration from URaider to our own Custom Framework
+  Lara Fully Controllable and interacts with basic environment in the new Custom Framework (edited)
+
+6
+
+3
+
+1
+August 2, 2024
+
+Mr.Croft — 08/02/2024 12:02 PM
+  Push / Pull Object Integration using my own Framework. (video in showcase)
+
+3
+
+1
+August 4, 2024
+
+Mr.Croft — 08/04/2024 7:04 PM
+@everyone 
+  BIG UPDATE (04/08/2024)  
+
+  URaider use was discontinued.    Creation of new framework with same philosophies but with all the features of Core's Tomb Raider (1 to 6).
+
+  Lara Fully Controllable and interacts with basic environment (ledges, stairs, pipes and wall grab) in new framework.
+ Lara Stats added (HP and Breath)
+  Lara Swimming controls added
+  Inventory system added (Similar to TR 1 to 3). Later on will have menu like AoD.
+  Comsumables added
+  Climbing variations added
+  Push/Pull Object System added
+  Lever System (to open doors) added
+  Lock and Key System Added
+  Lara picking up Item underwater added
+
+  Demo video coming soon. (edited)
+
+3
+
+8
+August 10, 2024
+
+Mr.Croft — 08/10/2024 10:07 AM
+  UPDATE (10/08/2024)
+
+  Ability to combine Items in Inventory added
+  Freeclimb functionality added
+  Jump Settings added
+
+  As you might have noticed, a lot was done in the past 2 weeks! A big portion of the TR features has been created and tested in Grid like environments. 
+  Now the features will be tested on higher poly environments for Bug Hunting, and this stage will take a while... (edited)
+
+1
+
+1
+
+.𝖘𝖙𝖆𝖗𝖌𝖆𝖟𝖊𝖗 𝕬𝖗𝖎𝖊𝖙𝖎𝖘 — 08/10/2024 10:13 AM
+Free climb  is like u can climb anywhere?
+
+Mr.Croft — 08/10/2024 10:13 AM
+Similar to TR6, not zelda.
+August 13, 2024
+
+Mr.Croft — 08/13/2024 3:58 PM
+ Achievement Unlocked  - Stable 30 Fps on PSVita. 
+
+6
+
+1
+
+1
+August 14, 2024
+
+Mr.Croft — 08/14/2024 5:44 PM
+  Door Opening Variations Script + SFX
+August 15, 2024
+
+Mr.Croft — 08/15/2024 2:40 PM
+  Drawers with objects inside done.
+[2:41 PM]
+  Preparing Demo with Derelict Apartment Block Level (No Combat)
+
+3
+
+2
+August 16, 2024
+
+Mr.Croft — 08/16/2024 1:07 AM
+ Policeman AI (Arrest) Done.
+
+Mr.Croft — 08/16/2024 11:29 AM
+ PoliceDog AI  Done.
+
+5
+August 17, 2024
+
+Mr.Croft — 08/17/2024 10:25 AM
+ Pipe Climbing Done.
+[10:26 AM]
+ Push/Pull Upgraded
+
+Mr.Croft — 08/17/2024 5:07 PM
+ PSVita VideoPlay FMV Done.
+August 18, 2024
+
+Mr.Croft — 08/18/2024 12:35 PM
+ Demo MainMenu Done
+
+Mr.Croft — 08/18/2024 3:30 PM
+  CURRENT STATE OF THE PROJECT (18/08/2024)
+
+  Lara has all basic functionality (except Stealth and Combat)
+ All basic gameplay mechanics (more details Scroll )
+
+  Parisian Back Streets (90% Done)
+  Derelict Apartment Block (80% Done - Missing Elevator) (edited)
+
+Mr.Croft — 08/18/2024 11:06 PM
+ Classic Menu Polish...
+August 19, 2024
+
+Mr.Croft — 08/19/2024 4:44 PM
+ Polishing Lock and Key systems
+[4:44 PM]
+ Applying lights into scene
+
+3
+
+1
+August 20, 2024
+
+Mr.Croft — 08/20/2024 2:31 PM
+  Upgrading Policeman AI (Patrol, Search and Arrest)...
+August 22, 2024
+
+Mr.Croft — Yesterday at 7:24 PM
+   Alpha demo of the Parisian Back Streets level Released! (edited)
+
+2
+August 23, 2024
+
+Mr.Croft — Today at 5:01 PM
+  Building Stealth Mode... (edited)
+
+1
+
+Mr.Croft — Today at 6:02 PM
+After turning my head into a coconut  Stealth Mode is functional! 
+
+1
+
+2
+
+Mr.Croft — Today at 7:33 PM
+ CopAI Variation
+ Enemies droping Items after elimination
+ Stealth Mode Added

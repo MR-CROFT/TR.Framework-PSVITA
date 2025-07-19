@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 8295e05baad226c45a2819d792989edd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANKLE_L
+    100002: ANKLE_R
+    100004: //RootNode
+    100006: BICEP_L
+    100008: BICEP_R
+    100010: CALF_L
+    100012: CALF_R
+    100014: FORARM_L
+    100016: FORARM_R
+    100018: HEAD
+    100020: HIP
+    100022: NECK
+    100024: PALM_L
+    100026: PALM_R
+    100028: SHLDER_L
+    100030: SHLDER_R
+    100032: SPINE_1
+    100034: SPINE_2
+    100036: THIGH_L
+    100038: THIGH_R
+    100040: THORAX
+    100042: TOE_L
+    100044: TOE_R
+    400000: ANKLE_L
+    400002: ANKLE_R
+    400004: //RootNode
+    400006: BICEP_L
+    400008: BICEP_R
+    400010: CALF_L
+    400012: CALF_R
+    400014: FORARM_L
+    400016: FORARM_R
+    400018: HEAD
+    400020: HIP
+    400022: NECK
+    400024: PALM_L
+    400026: PALM_R
+    400028: SHLDER_L
+    400030: SHLDER_R
+    400032: SPINE_1
+    400034: SPINE_2
+    400036: THIGH_L
+    400038: THIGH_R
+    400040: THORAX
+    400042: TOE_L
+    400044: TOE_R
+    7400000: BADDIE_HITBEHIND
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BADDIE_HITBEHIND
+      takeName: BADDIE_HITBEHIND
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: CABAL_B(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_3e496f33
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_part_0
+      parentName: Body_3e496f33
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CANISTERA
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: canistera
+      parentName: CANISTERA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HIP
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 1.113935, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPINE_1
+      parentName: HIP
+      position: {x: 1.4629424e-32, y: -0.0143202245, z: 0.085496254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPINE_2
+      parentName: SPINE_1
+      position: {x: -1.4596575e-17, y: -0.010899425, z: 0.0907505}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: THORAX
+      parentName: SPINE_2
+      position: {x: 1.3727575e-15, y: 0.00164691, z: 0.10788175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NECK
+      parentName: THORAX
+      position: {x: 1.2067375e-15, y: 0.0224586, z: 0.2840825}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HEAD
+      parentName: NECK
+      position: {x: 1.7574025e-15, y: 0.0007818725, z: 0.0543005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SHLDER_L
+      parentName: THORAX
+      position: {x: -0.05366775, y: 0.019227875, z: 0.09459725}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BICEP_L
+      parentName: SHLDER_L
+      position: {x: -0.125, y: 0.04123, z: 0.0734775}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FORARM_L
+      parentName: BICEP_L
+      position: {x: -0.275, y: 1.696395e-16, z: 0.00081762247}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PALM_L
+      parentName: FORARM_L
+      position: {x: -0.24249999, y: -0.0069899997, z: 0.002241225}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SHLDER_R
+      parentName: THORAX
+      position: {x: 0.05207825, y: 0.017611224, z: 0.09325975}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BICEP_R
+      parentName: SHLDER_R
+      position: {x: 0.125, y: 0.041229248, z: 0.0734765}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FORARM_R
+      parentName: BICEP_R
+      position: {x: 0.275, y: -8.203775e-17, z: 0.00081762247}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PALM_R
+      parentName: FORARM_R
+      position: {x: 0.24190775, y: -0.0069896, z: 0.002241225}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: THIGH_L
+      parentName: HIP
+      position: {x: -0.107754, y: 0.0091925, z: -0.061049998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CALF_L
+      parentName: THIGH_L
+      position: {x: -0.0036649997, y: -0.0176675, z: -0.483775}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ANKLE_L
+      parentName: CALF_L
+      position: {x: 0.0018275, y: 0.0542675, z: -0.46499747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.996212, y: 1.00978, z: 0.993933}
+    - name: TOE_L
+      parentName: ANKLE_L
+      position: {x: -0.0018275, y: -0.102165, z: -0.09907025}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.999996, z: 1}
+    - name: THIGH_R
+      parentName: HIP
+      position: {x: 0.107755, y: 0.00919305, z: -0.061048996}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CALF_R
+      parentName: THIGH_R
+      position: {x: 0.00366445, y: -0.01766775, z: -0.483775}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ANKLE_R
+      parentName: CALF_R
+      position: {x: -0.001826985, y: 0.0542675, z: -0.46499747}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.995213, y: 0.999774, z: 1.00499}
+    - name: TOE_R
+      parentName: ANKLE_R
+      position: {x: 0.001826985, y: -0.102166004, z: -0.098601}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.999999, y: 0.999998, z: 1}
+    - name: MESH2_5aa460d3
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5aa460d3 1
+      parentName: MESH2_5aa460d3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5f174239
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5f174239 1
+      parentName: MESH2_5f174239
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_10a06e87
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_10a06e87 1
+      parentName: MESH2_10a06e87
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_81ce94fe
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_81ce94fe 1
+      parentName: MESH2_81ce94fe
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_724da77a
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_724da77a 1
+      parentName: MESH2_724da77a
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_1091e846
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_1091e846 1
+      parentName: MESH2_1091e846
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_eac1161a
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_eac1161a 1
+      parentName: MESH2_eac1161a
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_f238e7f
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_f238e7f 1
+      parentName: MESH2_f238e7f
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: d50202805f4f64e4bb5858fc1054655a,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: d50202805f4f64e4bb5858fc1054655a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANKLE_L
+    100002: ANKLE_R
+    100004: BICEP_L
+    100006: BICEP_R
+    100008: Body_3e496f33
+    100010: Body_part_0
+    100012: //RootNode
+    100014: CALF_L
+    100016: CALF_R
+    100018: CANISTERA
+    100020: canistera
+    100022: FORARM_L
+    100024: FORARM_R
+    100026: HEAD
+    100028: HIP
+    100030: MESH2_1091e846
+    100032: MESH2_1091e846 1
+    100034: MESH2_10a06e87
+    100036: MESH2_10a06e87 1
+    100038: MESH2_5aa460d3
+    100040: MESH2_5aa460d3 1
+    100042: MESH2_5f174239
+    100044: MESH2_5f174239 1
+    100046: MESH2_724da77a
+    100048: MESH2_724da77a 1
+    100050: MESH2_81ce94fe
+    100052: MESH2_81ce94fe 1
+    100054: MESH2_eac1161a
+    100056: MESH2_eac1161a 1
+    100058: MESH2_f238e7f
+    100060: MESH2_f238e7f 1
+    100062: NECK
+    100064: PALM_L
+    100066: PALM_R
+    100068: SHLDER_L
+    100070: SHLDER_R
+    100072: SPINE_1
+    100074: SPINE_2
+    100076: THIGH_L
+    100078: THIGH_R
+    100080: THORAX
+    100082: TOE_L
+    100084: TOE_R
+    400000: ANKLE_L
+    400002: ANKLE_R
+    400004: BICEP_L
+    400006: BICEP_R
+    400008: Body_3e496f33
+    400010: Body_part_0
+    400012: //RootNode
+    400014: CALF_L
+    400016: CALF_R
+    400018: CANISTERA
+    400020: canistera
+    400022: FORARM_L
+    400024: FORARM_R
+    400026: HEAD
+    400028: HIP
+    400030: MESH2_1091e846
+    400032: MESH2_1091e846 1
+    400034: MESH2_10a06e87
+    400036: MESH2_10a06e87 1
+    400038: MESH2_5aa460d3
+    400040: MESH2_5aa460d3 1
+    400042: MESH2_5f174239
+    400044: MESH2_5f174239 1
+    400046: MESH2_724da77a
+    400048: MESH2_724da77a 1
+    400050: MESH2_81ce94fe
+    400052: MESH2_81ce94fe 1
+    400054: MESH2_eac1161a
+    400056: MESH2_eac1161a 1
+    400058: MESH2_f238e7f
+    400060: MESH2_f238e7f 1
+    400062: NECK
+    400064: PALM_L
+    400066: PALM_R
+    400068: SHLDER_L
+    400070: SHLDER_R
+    400072: SPINE_1
+    400074: SPINE_2
+    400076: THIGH_L
+    400078: THIGH_R
+    400080: THORAX
+    400082: TOE_L
+    400084: TOE_R
+    2100000: Mt1_diffuse_lambert0
+    2100002: Mt2_diffuse_lambert1
+    4300000: Body_part_0
+    4300002: MESH2_724da77a
+    4300004: MESH2_eac1161a
+    4300006: MESH2_5f174239
+    4300008: MESH2_81ce94fe
+    4300010: canistera
+    4300012: MESH2_f238e7f
+    4300014: MESH2_10a06e87
+    4300016: MESH2_1091e846
+    4300018: MESH2_5aa460d3
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body_part_0
+    13700002: canistera
+    13700004: MESH2_1091e846 1
+    13700006: MESH2_10a06e87 1
+    13700008: MESH2_5aa460d3 1
+    13700010: MESH2_5f174239 1
+    13700012: MESH2_724da77a 1
+    13700014: MESH2_81ce94fe 1
+    13700016: MESH2_eac1161a 1
+    13700018: MESH2_f238e7f 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: CABAL_B(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_3e496f33
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body_part_0
+      parentName: Body_3e496f33
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CANISTERA
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: canistera
+      parentName: CANISTERA
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HIP
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 4.45574, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPINE_1
+      parentName: HIP
+      position: {x: 5.8517696e-32, y: -0.057280894, z: 0.341985}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SPINE_2
+      parentName: SPINE_1
+      position: {x: -5.83863e-17, y: -0.0435977, z: 0.363002}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: THORAX
+      parentName: SPINE_2
+      position: {x: 5.4910296e-15, y: 0.0065876395, z: 0.43152696}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: NECK
+      parentName: THORAX
+      position: {x: 4.8269494e-15, y: 0.0898344, z: 1.13633}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: HEAD
+      parentName: NECK
+      position: {x: 7.02961e-15, y: 0.00312749, z: 0.21720198}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SHLDER_L
+      parentName: THORAX
+      position: {x: -0.214671, y: 0.0769115, z: 0.37838897}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BICEP_L
+      parentName: SHLDER_L
+      position: {x: -0.5, y: 0.16492, z: 0.29391}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FORARM_L
+      parentName: BICEP_L
+      position: {x: -1.1, y: 6.78558e-16, z: 0.0032704899}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PALM_L
+      parentName: FORARM_L
+      position: {x: -0.9699999, y: -0.027959997, z: 0.0089649}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SHLDER_R
+      parentName: THORAX
+      position: {x: 0.20831299, y: 0.0704449, z: 0.373039}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BICEP_R
+      parentName: SHLDER_R
+      position: {x: 0.5, y: 0.16491698, z: 0.29390597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FORARM_R
+      parentName: BICEP_R
+      position: {x: 1.1, y: -3.28151e-16, z: 0.0032704899}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PALM_R
+      parentName: FORARM_R
+      position: {x: 0.9676309, y: -0.0279584, z: 0.0089649}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: THIGH_L
+      parentName: HIP
+      position: {x: -0.431016, y: 0.03677, z: -0.24419999}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CALF_L
+      parentName: THIGH_L
+      position: {x: -0.014659998, y: -0.070669994, z: -1.9351}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ANKLE_L
+      parentName: CALF_L
+      position: {x: 0.00731, y: 0.21706998, z: -1.8599898}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.996212, y: 1.00978, z: 0.993933}
+    - name: TOE_L
+      parentName: ANKLE_L
+      position: {x: -0.00731, y: -0.40865996, z: -0.396281}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.999996, z: 1}
+    - name: THIGH_R
+      parentName: HIP
+      position: {x: 0.43102, y: 0.0367722, z: -0.24419597}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: CALF_R
+      parentName: THIGH_R
+      position: {x: 0.014657799, y: -0.070671, z: -1.9351}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ANKLE_R
+      parentName: CALF_R
+      position: {x: -0.0073079397, y: 0.21706998, z: -1.8599898}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.995213, y: 0.999774, z: 1.00499}
+    - name: TOE_R
+      parentName: ANKLE_R
+      position: {x: 0.0073079397, y: -0.40866402, z: -0.394404}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.999999, y: 0.999998, z: 1}
+    - name: MESH2_5aa460d3
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5aa460d3 1
+      parentName: MESH2_5aa460d3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5f174239
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_5f174239 1
+      parentName: MESH2_5f174239
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_10a06e87
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_10a06e87 1
+      parentName: MESH2_10a06e87
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_81ce94fe
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_81ce94fe 1
+      parentName: MESH2_81ce94fe
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_724da77a
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_724da77a 1
+      parentName: MESH2_724da77a
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_1091e846
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_1091e846 1
+      parentName: MESH2_1091e846
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_eac1161a
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_eac1161a 1
+      parentName: MESH2_eac1161a
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_f238e7f
+      parentName: CABAL_B(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MESH2_f238e7f 1
+      parentName: MESH2_f238e7f
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5 @@
+newmtl ArmarioIn_Texture
+map_Kd ArmarioIn_Texture.jpg
+Kd 1 1 1
+d 1
+

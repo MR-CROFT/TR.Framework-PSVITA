@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 4c5b19d79d052c7419d7a0ad276b5c23
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ANKLE_L
+    100002: ANKLE_R
+    100004: BICEP_L
+    100006: BICEP_R
+    100008: Body_7dbc209e
+    100010: Body_part_0
+    100012: CALF_L
+    100014: CALF_R
+    100016: CANISTERA
+    100018: canistera
+    100020: CANISTERB
+    100022: canisterb
+    100024: //RootNode
+    100026: FORARM_L
+    100028: FORARM_R
+    100030: HEAD
+    100032: HIP
+    100034: MESH2_10a06e87
+    100036: MESH2_10a06e87 1
+    100038: MESH2_10bf9c6a
+    100040: MESH2_10bf9c6a 1
+    100042: MESH2_2af1b3a1
+    100044: MESH2_2af1b3a1_part_0
+    100046: MESH2_2af1b3a1_part_1
+    100048: MESH2_5ba452fa
+    100050: MESH2_5ba452fa 1
+    100052: MESH2_642e6a02
+    100054: MESH2_642e6a02 1
+    100056: MESH2_70da1883
+    100058: MESH2_70da1883 1
+    100060: MESH2_72a77e21
+    100062: MESH2_72a77e21 1
+    100064: MESH2_72cce93d
+    100066: MESH2_72cce93d_part_0
+    100068: MESH2_72cce93d_part_1
+    100070: MESH2_72cce93d_part_2
+    100072: MESH2_76b76955
+    100074: MESH2_76b76955 1
+    100076: MESH2_8045b3ad
+    100078: MESH2_8045b3ad 1
+    100080: MESH2_eac1161a
+    100082: MESH2_eac1161a 1
+    100084: MESH2_f21ac96
+    100086: MESH2_f21ac96 1
+    100088: NECK
+    100090: PALM_L
+    100092: PALM_R
+    100094: SHLDER_L
+    100096: SHLDER_R
+    100098: SPINE_1
+    100100: SPINE_2
+    100102: THIGH_L
+    100104: THIGH_R
+    100106: THORAX
+    100108: TOE_L
+    100110: TOE_R
+    400000: ANKLE_L
+    400002: ANKLE_R
+    400004: BICEP_L
+    400006: BICEP_R
+    400008: Body_7dbc209e
+    400010: Body_part_0
+    400012: CALF_L
+    400014: CALF_R
+    400016: CANISTERA
+    400018: canistera
+    400020: CANISTERB
+    400022: canisterb
+    400024: //RootNode
+    400026: FORARM_L
+    400028: FORARM_R
+    400030: HEAD
+    400032: HIP
+    400034: MESH2_10a06e87
+    400036: MESH2_10a06e87 1
+    400038: MESH2_10bf9c6a
+    400040: MESH2_10bf9c6a 1
+    400042: MESH2_2af1b3a1
+    400044: MESH2_2af1b3a1_part_0
+    400046: MESH2_2af1b3a1_part_1
+    400048: MESH2_5ba452fa
+    400050: MESH2_5ba452fa 1
+    400052: MESH2_642e6a02
+    400054: MESH2_642e6a02 1
+    400056: MESH2_70da1883
+    400058: MESH2_70da1883 1
+    400060: MESH2_72a77e21
+    400062: MESH2_72a77e21 1
+    400064: MESH2_72cce93d
+    400066: MESH2_72cce93d_part_0
+    400068: MESH2_72cce93d_part_1
+    400070: MESH2_72cce93d_part_2
+    400072: MESH2_76b76955
+    400074: MESH2_76b76955 1
+    400076: MESH2_8045b3ad
+    400078: MESH2_8045b3ad 1
+    400080: MESH2_eac1161a
+    400082: MESH2_eac1161a 1
+    400084: MESH2_f21ac96
+    400086: MESH2_f21ac96 1
+    400088: NECK
+    400090: PALM_L
+    400092: PALM_R
+    400094: SHLDER_L
+    400096: SHLDER_R
+    400098: SPINE_1
+    400100: SPINE_2
+    400102: THIGH_L
+    400104: THIGH_R
+    400106: THORAX
+    400108: TOE_L
+    400110: TOE_R
+    2100000: Mt1_diffuse_lambert0
+    2100002: Mt2_diffuse_lambert1
+    2100004: Mt5_unknown_0_lambert3
+    2100006: Mt3_diffuseenv_phong0
+    2100008: Mt4_diffuse_lambert2
+    4300000: Body_part_0
+    4300002: MESH2_70da1883
+    4300004: MESH2_72cce93d_part_0
+    4300006: MESH2_72cce93d_part_1
+    4300008: MESH2_72cce93d_part_2
+    4300010: MESH2_76b76955
+    4300012: MESH2_eac1161a
+    4300014: MESH2_72a77e21
+    4300016: MESH2_2af1b3a1_part_0
+    4300018: MESH2_2af1b3a1_part_1
+    4300020: MESH2_10bf9c6a
+    4300022: MESH2_8045b3ad
+    4300024: MESH2_642e6a02
+    4300026: MESH2_f21ac96
+    4300028: MESH2_10a06e87
+    4300030: MESH2_5ba452fa
+    4300032: canisterb
+    4300034: canistera
+    9500000: //RootNode
+    13700000: Body_part_0
+    13700002: canistera
+    13700004: canisterb
+    13700006: MESH2_10a06e87 1
+    13700008: MESH2_10bf9c6a 1
+    13700010: MESH2_2af1b3a1_part_0
+    13700012: MESH2_2af1b3a1_part_1
+    13700014: MESH2_5ba452fa 1
+    13700016: MESH2_642e6a02 1
+    13700018: MESH2_70da1883 1
+    13700020: MESH2_72a77e21 1
+    13700022: MESH2_72cce93d_part_0
+    13700024: MESH2_72cce93d_part_1
+    13700026: MESH2_72cce93d_part_2
+    13700028: MESH2_76b76955 1
+    13700030: MESH2_8045b3ad 1
+    13700032: MESH2_eac1161a 1
+    13700034: MESH2_f21ac96 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

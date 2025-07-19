@@ -1,0 +1,72 @@
+------------------------------------------------------------------
+FX Quest
+------------------------------------------------------------------
+
+---------------------------------
+How to use the demo scenes?
+---------------------------------
+
+	1)  Add new resolution to Game tab.
+
+		- Click on dropdown-list below the tab of Game tab then click on the small plus button.
+		- Add 960x600px resolutions then press OK button.
+
+	2) Change resolution of Game tab to 960x600px.
+
+	3) Add all demo scenes to Build Settings dialog.
+
+		- Select all demo scenes found in Scenes folder.
+		- Drop them into Scene In Build section in Build Settings dialog.
+
+	5) Press Play button then see Game tab.
+
+	6) In 2D Demo scene, Click icon and left/right arrow buttons to play Particles.
+
+		It is divided to different types; 
+		- Abilities
+		- Explosions
+		- Fight
+		- Magics
+		- Misc
+		- Props
+		- Front UI
+		- Back UI
+		Note you can press Left/Right/Up/Down keys to switch Particle and press Enter to replay current Particle.
+
+	7) In 3D Demo scene, drag mouse to orbit the camera, Click icon and left/right arrow buttons to play Particles.
+	
+---------------------------------
+How to use Particle Scaler Tool?
+---------------------------------
+
+	1) Select a Particle in Hierarchy tab.
+		Note FX Quest Scale tool also supports multiple selections.
+
+	2) Open FX Quest Scale dialog by.
+		2.1) Hotkey, Ctrl-E (Windows) or Command-E (Mac).
+		2.2) Click mouse on Scaler button after the Particle name in Hierarchy tab.
+		2.3) Use Unity Top Menu - Windows - FX Quest - Scaler.
+
+	3) FX Quest Scale dialog appears.
+
+	4) Drag and drop the FX Quest Scale dialog to attach any tab in Unity Editor.
+
+	5) While you are selecting Particle.
+		In FX Quest Scale dialog, you can slide the slider to adjust scale of selected Particle or type the amount between 0.1 to 10.0 in to text box.
+		Note repeat this step for scaling larger than 10.
+
+	6) if the selected Particle doesn't show and you see message ChildParticleList[i].m_GameObject=null in Console tab that means you didn't set the selected Gameobject to active.
+		To fix it just check on to Checkbox in the Inspector tab.
+
+	7) After you made changed to Particle's scale, the amount of scale will be added to the Particle name.
+		This notice you what the current scale is.
+
+	8) If your selected Particle has Emitter loop enable, it always play in Game tab and Scene tab you may easily to observe it.
+		Otherwise, it plays only once. Play/Stop buttons in FX Quest Scale dialog is useful to help you continue simulate and play the non-loop Emitter Particle.
+		Note Some Particle is not Looping enabled, You can use Play/Stop buttons in FX Quest Scale dialog to help you observe the Particle.
+
+	9) To save the modified Particle, press Save as Prefabs button to save it as new prefab.
+
+	10) New prefab always saved in FX Quest/_Prefabs/Rescale folder.
+
+------------------------------------------------------------------

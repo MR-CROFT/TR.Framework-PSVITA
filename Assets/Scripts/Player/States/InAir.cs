@@ -1,0 +1,96 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class InAir : StateBase<PlayerController>
+{
+    private bool haltUpdate = false;
+    private bool screamed = false;
+    private float airTime = 0f; // Timer to track time in the air
+    private const float screamDelay = 2.5f; // Time in seconds before scream is triggered
+
+    public override void OnEnter(PlayerController player)
+    {
+        player.Anim.applyRootMotion = false;
+        haltUpdate = false;
+        screamed = false;
+        airTime = 0f; // Reset air time on entering the state
+    }
+
+    public override void OnExit(PlayerController player)
+    {
+        haltUpdate = false;
+
+        player.isBackJump = false;
+
+        player.Anim.SetBool("isJumping", false);
+        player.Anim.SetBool("isGrabbing", false);
+        player.Anim.SetBool("isDive", false);
+        player.Anim.SetBool("BackJump", false);
+    }
+
+    public override void Update(PlayerController player)
+    {
+        if (haltUpdate)
+            return;
+
+        airTime += Time.deltaTime; // Increment air time
+
+        // Play a scream sound after a delay
+        if (!screamed && airTime > screamDelay)
+        {
+            player.SFX.PlayScreamSound();
+            screamed = true;
+        }
+
+        // Apply gravity to the player
+        player.ApplyGravity(player.gravity);
+
+        // Update animator parameters
+        player.Anim.SetFloat("YSpeed", player.Velocity.y);
+        float targetSpeed = UMath.GetHorizontalMag(player.RawTargetVector() * player.runSpeed);
+        player.Anim.SetFloat("TargetSpeed", targetSpeed);
+
+        // Handle back jump behavior
+        if (player.isBackJump)
+        {
+            player.transform.Translate(0f, 0f, -4f * Time.deltaTime);
+        }
+
+        // Transition to Locomotion or Sliding based on landing conditions
+        if (player.Grounded)
+        {
+            if (player.Velocity.y < -player.damageVelocity)
+            {
+                if (player.Stats.Health < -((player.Velocity.y + player.damageVelocity) * player.damageRate))
+                {
+                    player.Anim.SetBool("isDead", true);
+                    player.Stats.Health += (int)((player.Velocity.y + player.damageVelocity) * player.damageRate);
+                    return;
+                }
+                player.Stats.Health += (int)((player.Velocity.y + player.damageVelocity) * player.damageRate);
+            }
+
+            if (UMath.GroundAngle(player.GroundHit.normal) <= player.charControl.slopeLimit)
+            {
+                // Check for input to transition to Locomotion
+                if (Input.GetAxisRaw(player.playerInput.verticalAxis) < 0.1f && Input.GetAxisRaw(player.playerInput.horizontalAxis) < 0.1f)
+                    player.Velocity = Vector3.down * player.gravity;
+                
+                player.StateMachine.GoToState<Locomotion>();
+            }
+            else
+            {
+                player.StateMachine.GoToState<Sliding>();
+            }
+            return;
+        }
+
+        // Transition to Grabbing state if action button is pressed and not diving
+        if (Input.GetKeyDown(player.playerInput.action) && !player.Anim.GetBool("isDive"))
+        {
+            player.StateMachine.GoToState<Grabbing>();
+            return;
+        }
+    }
+}
