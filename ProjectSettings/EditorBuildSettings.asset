@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Maps/MainMenu.unity
     guid: 2319faf02fa19c846b9a4e02058961da
-  - enabled: 0
+  - enabled: 1
     path: Assets/Maps/ParisTutorial.unity
     guid: 48e62c1a145a61e4f8d9f792984d4987
-  - enabled: 0
+  - enabled: 1
     path: Assets/Maps/Paris.unity
     guid: beee953f90e644546a62b6de400a9dcb
-  - enabled: 0
+  - enabled: 1
     path: Assets/Maps/ParisFinal.unity
     guid: b665ee4f58f17514e85e07052dc1123a
   - enabled: 1
@@ -32,7 +32,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Maps/CUTSCENES/FinalCutsceneLv3.unity
     guid: c3fa260416441ff429eb44a67062e8c5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Maps/GameOverMenu.unity
     guid: 3085999b402265b43afdedf290db8485
   m_configObjects: {}
