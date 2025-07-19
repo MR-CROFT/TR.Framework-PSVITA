@@ -1,5 +1,5 @@
 # TR.Framework-PSVITA
-A fan-made Unity gameplay framework that recreates the core mechanics of Tomb Raider: The Angel of Darkness, with PSVita as its primary development platform. Built using Uraider 2018 (v1) character controller but heavily expanded to include inventory, AI, stealth, platforming, and more — closely resembling the original PS2 gameplay experience.
+A fan-made Unity gameplay framework that recreates the core mechanics of Tomb Raider: The Angel of Darkness, with PSVita as its primary development platform. Built using Uraider 2018 (v1) character controller but heavily expanded to include inventory, AI, stealth, lock and key systems, and more — closely resembling the original PS2 gameplay experience.
 
 🕹️ Platforms
 ✅ Primary: PlayStation Vita (PSVita)
