@@ -50,6 +50,9 @@ Unity Standalone Build Support (Windows)
 ✅ Underwater item pickup (new)
 ✅ AOD-style door opening system with SFX (new)
 
+⚡️If you need help or support, here's my DISCORD:
+https://discord.gg/4TbEwC8Fg9
+
 Thanks Tiernan Watson for the Character Controller (Uraider v.2018)!
 
 TR PSVita Framework made by David Ho.
