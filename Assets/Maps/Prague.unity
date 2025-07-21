@@ -20,11 +20,11 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}
+  m_AmbientSkyColor: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
   m_AmbientEquatorColor: {r: 0.12062066, g: 0.14869784, b: 0.16911763, a: 1}
   m_AmbientGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 4
+  m_AmbientMode: 3
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: 82b660520bdecce4daf45d270ec93fe4, type: 2}
   m_HaloStrength: 0.5
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 8900000, guid: 169a8893b5fd8514fad96278d67a9c7b, type: 3}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.13559267, g: 0.14969161, b: 0.16211069, a: 1}
+  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -34385,7 +34385,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1982580534618568, guid: add1d19d0183d784ea56fec7cd31c388, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114875470313911806, guid: add1d19d0183d784ea56fec7cd31c388,
         type: 2}
@@ -136990,7 +136990,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!108 &1070926252
 Light:
   m_ObjectHideFlags: 0
@@ -251865,7 +251865,7 @@ Prefab:
       objectReference: {fileID: 423040676}
     - target: {fileID: 1441871257654250, guid: f71bfa498ea73d4488ca7fac4c27134e, type: 2}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4104697961297706, guid: f71bfa498ea73d4488ca7fac4c27134e, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -256222,6 +256222,10 @@ Prefab:
       propertyPath: itemToDrop
       value: 
       objectReference: {fileID: 1879183592}
+    - target: {fileID: 1209208433715842, guid: 72717cbdb696b4a45907ddf5d57425d3, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 72717cbdb696b4a45907ddf5d57425d3, type: 2}
   m_IsPrefabAsset: 0
