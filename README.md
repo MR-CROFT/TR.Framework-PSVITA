@@ -58,3 +58,5 @@ Thanks Tiernan Watson for the Character Controller (Uraider v.2018)!
 TR PSVita Framework made by David Ho.
 Uraider made by Tiernan Watson.
 
+WARNING: THESE ASSETS ARE FOR EDUCATIONAL PURPOSES AND FAN-MADE NON-COMMERCIAL PROJECTS ONLY.
+
